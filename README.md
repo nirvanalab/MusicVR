@@ -36,3 +36,11 @@ The following articles were used as a reference while developing this project
 - https://mn2s.com/news/features/vr-music-industry/
 - https://www.theverge.com/2016/5/4/11589814/nextvr-live-nation-gear-vr-music-gigs
 - http://mbryonic.com/best-music-vr/
+
+**Videos Used**
+The following Youtube videos were used in the project for explanation purposes
+- [Intone – Sing](https://www.youtube.com/watch?v=xeatsFrfipA)
+- [The Weeknd - The Hills remix feat. Eminem](https://www.youtube.com/watch?v=2fhjdtQDcOo)
+- [Amplify VR](https://www.youtube.com/watch?v=hjJzcMFJSZs)
+- [Rockband VR](https://www.youtube.com/watch?v=4QWEfb2DnT4)
+- [Playthings VR](https://www.youtube.com/watch?v=P34eamqaUyc&t=13s)
